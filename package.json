@@ -1,6 +1,6 @@
 {
-  "name": "7ong",
-  "version": "1.2.2",
+  "name": "7ong_cli",
+  "version": "1.0.0",
   "description": "CLI front-end development tools",
   "main": "index.js",
   "bin": {
